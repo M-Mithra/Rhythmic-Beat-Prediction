@@ -15,8 +15,7 @@ This project focuses on predicting rhythmic beat patterns from audio files using
 - Install dependencies:
   ```bash
   pip install torch librosa scikit-learn joblib numpy
-````
-````
+
 ## How to Run
 
 1. Clone this repository and ensure the dataset and model files are in place.
